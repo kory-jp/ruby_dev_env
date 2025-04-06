@@ -38,3 +38,7 @@ http://localhost:3000
 <br>
 
 データベースが未作成のため、ActiveRecordのエラーが発生するがDBを作成するとトップ画面が表示される
+
+## 参考サイト
+
+https://qiita.com/crawling_cat/items/501fac2d7296f901f1f4
